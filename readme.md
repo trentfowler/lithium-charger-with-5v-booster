@@ -1,4 +1,4 @@
-# Coin cell battery backup
+# Single-cell li-ion charger and 5v booster
 
 
 **Description:** KiCad schematic and reference pcb layout for a Li-ion charging circuit 
