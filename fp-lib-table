@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name lithium_ion_charging_block)(type KiCad)(uri ${KIPRJMOD}/lithium_ion_charging_block.pretty)(options "")(descr ""))
+)

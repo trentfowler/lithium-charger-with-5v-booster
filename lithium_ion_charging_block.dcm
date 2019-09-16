@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10118194-0001LF
+D CONN RCPT USB2.0 MICRO B SMD R/A
+K 609-4618-1-ND
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+$ENDCMP
+#
+$CMP MCP73831-2-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP TPS61200DRC
+D Low Input Voltage Synchronous Boost Converter With 1.3A Switches, Adjustable Output Voltage, 0.3-5.5V Input Voltage, VSON-10
+K boost step-up DC/DC synchronous
+F http://www.ti.com/lit/ds/symlink/tps61200.pdf
+$ENDCMP
+#
+$CMP USB_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+#End Doc Library
